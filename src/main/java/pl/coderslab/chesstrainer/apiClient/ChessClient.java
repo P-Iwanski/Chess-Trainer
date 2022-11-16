@@ -22,7 +22,7 @@ import java.util.List;
 public class ChessClient {
     @Autowired
     private WebClient.Builder webClientBuider;
-//
+
     @Autowired
     private BlackGameDao bDao;
     @Autowired
