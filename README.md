@@ -1,4 +1,26 @@
-Chess-Trainer app is an application for chess players. You write your nickname and you can find weakness in your repertoire.
+Technologies
+--------------------------------------------------------------------------------------------------------------------------------------
+Java EE
+
+Spring Boot
+
+Spring WebClient
+
+Bootstrap
+
+JSP
+
+Lichess Api (https://lichess.org/api)
+
+
+
+About app
+--------------------------------------------------------------------------------------------------------------------------------------
+Chess-Trainer app is an application for chess players. There is a lot of material about chess on the internet. The real problem is which material fits for you. Write your nickname and find weakness in your repertoire.
+
+
+Usage
+--------------------------------------------------------------------------------------------------------------------------------------
 Application check 2000 your games and show you your winrate in variant you asking about. Application take data from lichess.
 This is home page. You can register, log in, ask about your games as white or black and you can check your statistics in variant you asking about.
 
